@@ -1,6 +1,6 @@
 # Arduino Smart Cane
 
-An open-source, affordable assistive technology project that enables obstacle detection for visually impaired individuals. This device enhances a standard white cane by adding ultrasonic obstacle detection with vibration feedback, helping to identify obstacles beyond the range of traditional canes.
+An open-source, affordable assistive technology project that enables obstacle detection for visually impaired individuals. This device enhances a standard white cane by adding ultrasonic obstacle detection with vibration feedback, helping to identify obstacles beyond the range of traditional canes, this project aims to reduce the price of smart canes, such as the WeWalk Smart Cane 2, which can price up to $1000 USD.
 
 This project creates a smart cane using an Arduino Uno that uses an HC-SR04 ultrasonic sensor to detect obstacles and provides vibration feedback. The device functions as follows:
 
@@ -238,10 +238,6 @@ void checkButton() {
 * Audio feedback options
 * Power optimization for extended battery life
 * Smartphone integration for configuration
-
-## License
-
-This project is open source and available for personal and educational use.
 
 ## Acknowledgments
 
